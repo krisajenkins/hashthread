@@ -1,6 +1,6 @@
 # hashthread
 
-A clojure threading macro, like `->` and `->>`, but with explicit threadpoints.
+A Clojure threading macro, like `->` and `->>`, but with explicit threadpoints.
 
 ```clojure
 eg. (-#> 5
